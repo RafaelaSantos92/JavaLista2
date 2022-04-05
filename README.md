@@ -1,2 +1,2 @@
-# ProjetoJava
+# JavaLista2
 ProjetoJava
